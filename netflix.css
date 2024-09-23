@@ -1,5 +1,5 @@
 *{
-    background-color:#222;
+    background-color: #181818;
     color: #fff;
     padding:0px;
     margin:0px;
@@ -37,10 +37,10 @@
     font-family:Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
     font-weight:400;
     font-size: 1.3rem;
-    padding-left: 2rem;
+    padding-left: 2.3rem;
 
 }
-section{
+.container{
     margin:3% 0%;
 }
 .desc{
@@ -48,4 +48,60 @@ section{
     font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
     text-align: center;
     margin-top: 2px;
+}
+.card{
+    margin: 0px 6px;
+}
+.headdesc{
+    font-size:3.25rem;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    font-weight: 800;
+    padding-top: 60px;
+    
+}
+.matter{
+    margin-top: 10px;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    font-size: 19px;
+    color: #ffffff;
+    
+}
+.head{
+    max-width: 42%;
+    padding: 0% 2%;
+}
+nbar{
+    max-width: 100%;
+    height: 50px;
+    background-color:black;
+}
+footer{
+    padding:5% 4.5%;
+    border-top: 2px solid #3c3b3b;
+    color: #666;
+}
+.col{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content:start;
+    column-gap: 8.5rem;
+}
+footer h1{
+    color: #737373;
+    margin-bottom:2.5rem;
+    font-size: 1rem;
+}
+footer a{
+    color: #737373;
+    text-decoration: none;
+    font-size: 0.8rem;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+footer a:hover{
+    text-decoration: underline;
 }
