@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+
+}
+body{
+    background-color: #222;
+    color: #fff;
+
+}
+.banner{
+    background-image:linear-gradient(90deg,#181818 10%,hsla(0,0%,9%,.98) 20%,hsla(0,0%,9%,.97) 25%,hsla(0,0%,9%,.95) 35%,hsla(0,0%,9%,.94) 40%,hsla(0,0%,9%,.92) 45%,hsla(0,0%,9%,.9) 50%,hsla(0,0%,9%,.87) 55%,hsla(0,0%,9%,.82) 60%,hsla(0,0%,9%,.75) 65%,hsla(0,0%,9%,.63) 70%,hsla(0,0%,9%,.45) 75%,hsla(0,0%,9%,.27) 80%,hsla(0,0%,9%,.15) 85%,hsla(0, 1%, 24%, 0.08) 90%,hsla(0, 1%, 55%, 0.03) 95%,hsla(0, 0%, 24%, 0)),url("https://occ-0-7613-3663.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZIXCsKnJj6Ui7fCY1MpIccn0MDNL5iQ8-KXTOnWaqS6OBVpiakgea-mx-r_fev0YRM72dlTS0gtz-8LxRy-f6e9-_d5CLW43oyK.jpg?r=823");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height:115vh;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+   
+}
+.banner_title img{
+    object-fit: contain;
+    max-width: 35%;
+    margin-bottom: 30px;
+    
+
+}
+.banner_contain{
+    padding: 10% 5%;
+}
+.banner_title h1{
+    
+    padding:20px 0px ;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+.banner_title h3{
+    color: #a3a3a3;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    font-weight: 200;
+    font-size:16px;
+    padding: ;
+}
+.banner_title .box{
+    padding: 0px 2px;
+    border: 1px solid #a3a3a3;
+    margin: 0px 4px ;
+
+}
+.banner_title span{
+ 
+}
+.banner_title p{
+    padding: 20px 0px ;
+    max-width: 35%;
+
+}
+.banner_title .bb{
+    color: #a3a3a3;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    font-weight: 200;
+    font-size:16px;
+}
+.banner_title .v{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    
+}
+
+
